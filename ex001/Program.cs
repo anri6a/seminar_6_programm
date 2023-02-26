@@ -4,6 +4,9 @@
 // -3; массив [6, 7, 19, 345, 3] -> да
 
 // 1. создать массив (Юлия)
+
+
+
 // 2. заполнить рандомно (Дмитрий)
 void FillArrayRandom (int[]array)
 {
@@ -15,3 +18,19 @@ void FillArrayRandom (int[]array)
 // 3. ввести искомую цифру (Андрей)
 // 4. ищем число в массиве (Денис)
 // 5. выводим да или нет (Санжар)
+string ConsoleWrite (number)
+{
+if (number = 1) 
+  { 
+      Console.WriteLine("Yes"); 
+  } 
+  else 
+  { 
+      Console.WriteLine("No"); 
+  }
+}
+
+int[]array = ;
+FillArrayRandom(array);
+
+
