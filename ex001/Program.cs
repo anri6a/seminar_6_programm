@@ -12,5 +12,6 @@ void Main(string[] args)
     {
         Console.Write(item + " ");
 }
+
 }
 Main();
