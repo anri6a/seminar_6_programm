@@ -2,6 +2,20 @@
 // определяет, присутствует ли заданное число в массиве.
 // 4; массив [6, 7, 19, 345, 3] -> нет
 // -3; массив [6, 7, 19, 345, 3] -> да
+
+// Задайте массив.
+void Main(string[] args)
+{
+    int[] array = new int[5];
+    Console.Write("Массив: ");
+    foreach (int item in array) 
+    {
+        Console.Write(item + " ");
+}
+
+}
+Main();
+
 InputNumber
 int InputNumber (string text)
 {
@@ -41,6 +55,7 @@ if (number = 1)
 
 int[]array = ;
 FillArrayRandom(array);
+
 
 
 
